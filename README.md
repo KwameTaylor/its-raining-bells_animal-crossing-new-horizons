@@ -1,6 +1,7 @@
 # It's Raining Bells, Hallelujah
 ### Kwame V. Taylor
 
+
 ## About This Project
 
 It's Raining Bells, Hallelujah is data-driven guide to getting rich and staying rich with maximized efficiency on the Nintendo Switch video game, Animal Crossing: New Horizons.
