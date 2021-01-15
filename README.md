@@ -1,6 +1,7 @@
 # It's Raining Bells, Hallelujah
 ### Kwame V. Taylor
 
+<img src="https://mcsun.org/wp-content/uploads/2020/05/Banner-Animal-Crossing-New-Horizons.jpg">
 
 ## About This Project
 
